@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gator Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bus_prompt">Select bus route</string>
+
+    <string-array name="bus_list">
+        <item>Bus 1 Downtown Station - Butler Plaza</item>
+        <item>Bus 12 Reitz Union - Hunters Run</item>
+        <item>Bus 35 McCarty Hall - Homestead</item>
+        <item>Bus 38 The Hub - Old Archer</item>
+    </string-array>
+
+    <string name="title_activity_screen2">Screen2Activity</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
